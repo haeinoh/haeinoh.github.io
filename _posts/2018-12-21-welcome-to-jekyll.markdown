@@ -3,10 +3,12 @@ layout: post
 title:  "This is my blog"
 date:   2018-12-21 16:27:22 +0900
 categories: jekyll update
----
-# 오늘 파이썬 배워봤어요 히히
-## 재밌었어요 히히
-----
+
+```python
+import text
+
+print("hello world")
+```
 # 내일은 쉬는날입니다 히히
 # 이번주는 괜찮네요 히히
 # 다음주는 쉽니다 히히
