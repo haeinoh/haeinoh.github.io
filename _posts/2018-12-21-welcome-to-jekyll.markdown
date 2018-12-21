@@ -8,6 +8,18 @@ categories: jekyll update
 import text
 
 print("hello world")
+
+```
+
+```C++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout << "hello world" << endl;
+}
 ```
 # 내일은 쉬는날입니다 히히
 # 이번주는 괜찮네요 히히
