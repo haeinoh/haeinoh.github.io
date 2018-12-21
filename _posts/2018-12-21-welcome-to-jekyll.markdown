@@ -6,6 +6,9 @@ categories: jekyll update
 ---
 # 오늘 파이썬 배워봤어요 히히
 ## 재밌었어요 히히
+----
+# 내일은 쉬는날입니다 히히
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:  https://github.com/haeinoh
